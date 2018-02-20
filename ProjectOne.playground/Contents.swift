@@ -2,7 +2,7 @@
 
 import UIKit
 
-
+//code reviewed on 2.19.18
 //Variable Coding Challenge #1
 var firstString = "Aloha, my name is Makayla!"
 let secondString = " Welcome to my Project One"
